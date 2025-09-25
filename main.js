@@ -230,3 +230,5 @@ greet();
 
  // Ans = print hi
 // why: function statement mn hoisting work krti h 
+
+ 
